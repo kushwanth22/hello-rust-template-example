@@ -1,0 +1,1 @@
+/workspaces/hello-rust-template-example/hello-marco/target/debug/hello-marco: /workspaces/hello-rust-template-example/hello-marco/src/lib.rs /workspaces/hello-rust-template-example/hello-marco/src/main.rs
